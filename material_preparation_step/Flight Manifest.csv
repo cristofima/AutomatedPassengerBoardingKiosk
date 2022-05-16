@@ -1,0 +1,6 @@
+Flight No,Origin,Destination,Date,Time,First Name,Last Name,Sex, SeatNo, DateofBirth, DoBValidation, PersonValidation, LuggageValidation, NameValidation, BoardingPassValidation
+UA-128,Miami,New York,30-May-2022,11:15,Cristopher,Coronado, M,15A,10-Aug-1993,FALSE,FALSE,FALSE,FALSE,FALSE
+UA-128,Miami,New York,30-May-2022,11:15,Oscar,Bott,M,17B,23-May-1980,FALSE,FALSE,FALSE,FALSE,FALSE
+UA-128,Miami,New York,30-May-2022,11:15,Laura,Olsen,F,13B,1-Mar-1996,FALSE,FALSE,FALSE,FALSE,FALSE
+UA-128,Miami,New York,30-May-2022,11:15,Esmeralda,Espinoza,F,28A,25-Aug-1995,FALSE,FALSE,FALSE,FALSE,FALSE
+UA-128,Miami,New York,30-May-2022,11:15,Spencer,Williams,M,31B,22-Nov-1994,FALSE,FALSE,FALSE,FALSE,FALSE
