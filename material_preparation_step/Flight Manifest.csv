@@ -1,4 +1,4 @@
-Carrier,Flight No,Origin,Destination,Date,Time,First Name,Last Name,Sex,Class, SeatNo, DateofBirth,Baggage, DoBValidation, PersonValidation, LuggageValidation, NameValidation, BoardingPassValidation
+Carrier,Flight No,Origin,Destination,Date,Time,First Name,Last Name,Sex,Class,SeatNo,DateofBirth,Baggage,DoBValidation,PersonValidation,LuggageValidation,NameValidation,BoardingPassValidation
 UA,128,Miami,New York,30-May-2022,11:15,Cristopher,Coronado, M,E,15A,10-Aug-1993,0,FALSE,FALSE,FALSE,FALSE,FALSE
 UA,128,Miami,New York,30-May-2022,11:15,Oscar,Bott,M,B,17B,23-May-1980,2,FALSE,FALSE,FALSE,FALSE,FALSE
 UA,128,Miami,New York,30-May-2022,11:15,Laura,Olsen,F,B,13B,1-Mar-1996,1,FALSE,FALSE,FALSE,FALSE,FALSE
